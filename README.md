@@ -1,6 +1,6 @@
 Connect-k
 
-The Connect-k program was designed as a test bed for different AI techniques for playing Connect-k games family: Tic-Tac-Toe, Go-moku, Connect-6 etc. We attempted to develop general game playing algorithms capable of playing any game within the Connect-k family. As such, the interface is currently tailored toward debugging and testing rather than being user-friendly. The Connect-k program we produced is currently the only open source program to play Connect-6.
+The Connect-k program was designed as a test bed for different AI techniques for playing Connect-k games family: Tic-Tac-Toe, Go-moku, Connect-6 etc. We attempted to develop general game playing algorithms capable of playing any game within the Connect-k family. As such, the interface is currently tailored toward debugging and testing rather than being user-friendly. The Connect-k program we produced is currently the only open source program to play Connect-6. The program has AI Tournament feature (like Piskvork).
 
 Year: 2007  Language: C# Original website: http://risujin.org/connectk/
 Important - as for "win32" folder - before running connectk.exe on Windows platform, gtk2-runtime-2.12.11-2008-07-25-ash.exe must be installed.
